@@ -7,7 +7,7 @@
 body{
     color: #fff;
     overflow: hidden;
-    background: linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%),url(/css/coffee-shop/coffee.avif);
+    background: linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%),url(/index.html/coffee.avif);
     background-position: center;
     background-size: cover;
    
